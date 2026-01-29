@@ -1,5 +1,5 @@
 Descripción del proyecto:
-Proyecto de Machine Learning para predecir si un cliente bancario suscribirá un depósito a plazo (variable objetivo: deposit). El trabajo sigue las instrucciones de la asignatura Machine Learning for Business Decision Making (Assignment #1: Predicting Bank Product Subscription, 2025‑26): EDA simplificado, definición de esquemas de evaluación (holdout interno/externo), comparación de métodos básicos (Dummy, KNN, árboles), experimentos con métodos avanzados (Random Forest / Gradient Boosting / CatBoost), optimización de hiperparámetros, calibración de probabilidades y generación del modelo final para un conjunto de competición.
+Proyecto de Machine Learning para predecir si un cliente bancario suscribirá un depósito a plazo (variable objetivo: `deposit`). 
 
 Contenido del repositorio:
 `ASSIGNMENT__1.ipynb`
